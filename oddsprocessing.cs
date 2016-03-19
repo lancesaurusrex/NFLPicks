@@ -29,8 +29,6 @@ namespace Robotics
 
         public void FormatFile(string line)
         {
-
-            var a = line.Split(' ');
             //format of game from text file
             /*
             2003-09-04 Jets at Redskins
@@ -38,6 +36,8 @@ namespace Robotics
             Jets	\t3	\t39
             Redskins	\t-3	\t39
             */
+            var a = line.Split(' ');
+
             foreach (var token in a)
             {
                 //if token contains /t split and add to list, else add to list
