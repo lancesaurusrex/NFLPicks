@@ -11,8 +11,9 @@ namespace Robotics
         static void Main(string[] args)
         {
             oddsprocessing a = new oddsprocessing();
-            a.ReadFile("O:\\lance.wessale\\Source\\Repos\\NFLPicks\\20032016NFLBettingLines.txt");
-            a.FileList.ForEach(delegate(string line) { Console.WriteLine(line); });
+            a.ReadFile("C:\\Users\\Lance\\Source\\Repos\\NFLPicks\\20032016NFLBettingLines.txt");
+            //a.FileList.ForEach(delegate(string line) { Console.WriteLine(line); });
+            a.ConvertToGame();
 
             string date = "2016-02-09";
             DateTime dt = Convert.ToDateTime(date);

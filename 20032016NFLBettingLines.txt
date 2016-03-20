@@ -1,4 +1,4 @@
-http://killersports.com/nfl/query?sid=guest&columns=tp&columns=tp&columns=t&rows=Site&rows=Line&rows=Total&selected_conditions=&selected_conditions=&week=1&season=2013&show_games=200&show_unplayed=5&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&query_matrix_submit=Select+a+few+parameters+and+click+here+to+submit
+//http://killersports.com/nfl/query?sid=guest&columns=tp&columns=tp&columns=t&rows=Site&rows=Line&rows=Total&selected_conditions=&selected_conditions=&week=1&season=2013&show_games=200&show_unplayed=5&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&selected_conditions=&query_matrix_submit=Select+a+few+parameters+and+click+here+to+submit
 2003-09-04 Jets at Redskins
 
 Team Name	Spread	Over/Under
